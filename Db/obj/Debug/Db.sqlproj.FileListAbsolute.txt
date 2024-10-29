@@ -1,0 +1,6 @@
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Db\bin\Debug\Db.dacpac
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Db\bin\Debug\Db.dll
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Db\bin\Debug\Db.pdb
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Db\obj\Debug\Db.sqlproj.AssemblyReference.cache
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Db\obj\Debug\Db.dll
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Db\obj\Debug\Db.pdb

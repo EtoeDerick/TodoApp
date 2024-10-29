@@ -1,0 +1,11 @@
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\bin\Debug\net8.0\Object.deps.json
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\bin\Debug\net8.0\Object.dll
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\bin\Debug\net8.0\Object.pdb
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\Object.AssemblyInfoInputs.cache
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\Object.AssemblyInfo.cs
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\Object.dll
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\refint\Object.dll
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\Object.pdb
+C:\Users\HUNTER DERICK\source\repos\TodoApp\Object\obj\Debug\net8.0\ref\Object.dll
